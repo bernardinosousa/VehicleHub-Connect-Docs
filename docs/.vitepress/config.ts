@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'Carbase 24',
   description: 'SaaS para gerir stands viaturas de A Z.',
-
+  base: '/VehicleHub-Connect-Docs/',
   themeConfig: {
     nav: [
       { text: 'Documentação', link: '/intro' },
