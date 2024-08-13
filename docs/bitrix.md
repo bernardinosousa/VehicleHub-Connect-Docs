@@ -16,7 +16,7 @@ O **Bitrix24** é uma plataforma colaborativa que oferece um conjunto completo d
 
 4. Ao ser gerado o Client ID e o Client Secret deve preencher os dados na plataforma Carbase 24
 
-![Integração Bitrix Passo 4](../images/bitrix-4.png "Integração Bitrix Passo 4")
-![Integração Bitrix Passo 4 Carbase](../images/bitrix-4-carbase.png "Integração Bitrix Passo 4 Carbase")
+![Integração Bitrix Passo 4](./images/bitrix-4.png "Integração Bitrix Passo 4")
+![Integração Bitrix Passo 4 Carbase](./images/bitrix-4-carbase.png "Integração Bitrix Passo 4 Carbase")
 
 5. Dentro das configurações Carbase 24 clique em 'Limpar cache' e configure corretamente os campos da qual pretende permitir integrar (Empresas, Contratos, etc...)
