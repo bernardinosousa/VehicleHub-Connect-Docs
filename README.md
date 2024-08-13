@@ -6,7 +6,7 @@
 docker-compose up -d
 ```
 
-- Go to http://localhost:3000
+- Open browser: http://localhost:3000
 
 # Stack
 
